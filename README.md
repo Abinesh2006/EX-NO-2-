@@ -1,7 +1,7 @@
 ## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
 
-### Name: Naveen kumar S
-### Reg. No: 212224040214
+### Name: Abinesh M
+### Reg. No: 212224040009
 
 ## AIM:
  
